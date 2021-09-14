@@ -18,10 +18,6 @@ Coding area - An online code editor for you to code with Raspberry Pi. The defau
 
 Integrated console window - It shows the output of your code. 
 
-    Run - Run the application in the coding area.
-
-    Reset - Reset the coding area to the default sample application.
-
 **Procedure briefings:**
 
 create IoT Hub : https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started#create-an-iot-hub
