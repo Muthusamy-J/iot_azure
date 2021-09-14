@@ -1,6 +1,6 @@
 # iot_azure
 Following Matters covered in this repo
 
-**experiment1** : Create Raspberry Pi web simulator and read sensor data in the Azure IoT Hub
+**Experiment1** : Create Raspberry Pi web simulator and read sensor data in the Azure IoT Hub - https://github.com/Muthusamy-J/iot_azure/blob/dev/muthu/experiment1/steps.md
 
-**experiment2** : Visualiza the Raspberry Pi web simulator generated data in Power
+**Experiment2** : Visualiza the Raspberry Pi web simulator generated data in Power
