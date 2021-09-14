@@ -8,7 +8,7 @@ Below is a gist of process for a very first experiment with Azure IoT Hub and Ra
 
 3. Run a sample application on Pi to send simulated sensor data to your IoT hub.
 
-Raspberry Pi Web simulator parts: 
+**Raspberry Pi Web simulator parts: **
 
 There are three areas in the web simulator.
 
@@ -22,7 +22,7 @@ Integrated console window - It shows the output of your code.
 
     Reset - Reset the coding area to the default sample application.
 
-Procedure briefings:
+**Procedure briefings:**
 
 create IoT Hub : https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started#create-an-iot-hub
 
@@ -30,7 +30,7 @@ Register new device in IoT Hub : https://docs.microsoft.com/en-us/azure/iot-hub/
 
 Replace connection String in node.js code in simulator
 
-Visualize with VS Code - Azure IoT Hub:
+**Visualize with VS Code - Azure IoT Hub:**
 
 1. Install Azure IoT Hub Extension for VS code - https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-tools
 
@@ -44,7 +44,7 @@ Visualize with VS Code - Azure IoT Hub:
 
 The device list will be shown in Azure IoT Hub Devices tab in a few seconds.
 
-Monitor device-to-cloud messages:
+**Monitor device-to-cloud messages:**
 
 To monitor messages that are sent from your device to your IoT hub, follow these steps:
 
@@ -54,7 +54,7 @@ The monitored messages will be shown in OUTPUT > Azure IoT Hub view.
 
 To stop monitoring, right-click the OUTPUT view and select Stop Monitoring Built-in Event Endpoint.
 
-Send cloud-to-device messages:
+**Send cloud-to-device messages:**
 
 To send a message from your IoT hub to your device, follow these steps:
 
