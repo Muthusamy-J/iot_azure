@@ -8,7 +8,7 @@ Below is a gist of process for a very first experiment with Azure IoT Hub and Ra
 
 3. Run a sample application on Pi to send simulated sensor data to your IoT hub.
 
-**Raspberry Pi Web simulator parts: **
+**Raspberry Pi Web simulator part**
 
 There are three areas in the web simulator.
 
